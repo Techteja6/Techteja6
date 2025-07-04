@@ -1,5 +1,5 @@
 <!-- Your Name or Project Title -->
-# Hi there, I'm Puppala Veera Venkata Satya Saikumar! 👋
+# Hi there, I'm Vejju Teja Satya Srinivas! 👋
 <!-- Brief Description -->
 >Enthusiastic Full Stack Developer and driven student, adept at creating seamless and dynamic web applications. Proficient in React.js and Next.js with a passion for crafting user-friendly interfaces and scalable solutions.Skilled in leveraging modern technologies to develop robust front-end and back-end systems. Excels in problem-solving and implementing efficient code practices to deliver high-quality products. Eager to contribute expertise in full stack development to innovative projects and collaborate with dynamic teams.
 
