@@ -77,9 +77,9 @@
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
-- <a href="https://www.linkedin.com/in/saikumar-puppala-009019234//" target="_blank">LinkedIn</a>
-- <a href="https://t.me/+807414973" target="_blank">Telegram</a>
-- <a href="https://www.instagram.com/saii___kumar/" target="_blank">Instagram</a>
+- <a href="https://www.linkedin.com/in/tejavejju/" target="_blank">LinkedIn</a>
+- <a href="https://web.telegram.org/a/" target="_blank">Telegram</a>
+- <a href="https://www.instagram.com/the____tej/" target="_blank">Instagram</a>
 
 
 <!-- Footer -->
