@@ -86,4 +86,4 @@ It focuses on delivering a sleek, user-friendly design for an athletic or lifest
 
 <!-- Footer -->
 ## 📝 Footer
-Thanks for stopping by! Don't forget to ⭐️ [Star](https://github.com/Techteja6/Techteja6/blob/main/readme.md) my repositories if you found them useful!
+Thanks for stopping by! Don't forget to ⭐️ [Star](https://github.com/Techteja6) my repositories if you found them useful!
