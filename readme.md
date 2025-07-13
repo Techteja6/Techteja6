@@ -17,11 +17,11 @@
 - **Issuing Organization:** AWS Academy
 - **Date of Certification:** July 2023
   
-### [Data Analytics Job Simulation](https://drive.google.com/file/d/1KlmQk1J9lSO8w4d9R9jcXlnCW1JqEGJZ/view)
+### [Data Analytics Job Simulation Certificate](https://drive.google.com/file/d/1KlmQk1J9lSO8w4d9R9jcXlnCW1JqEGJZ/view)
 - **Issuing Organization:** Deloitte
 - **Date of Certification:** July 2025
 
-### [Internship On VlSI](https://drive.google.com/file/d/1yXfolx9mhWqCeWHWHyflMldSwwnHuP6m/view)
+### [VlSI Internship Certificate](https://drive.google.com/file/d/1yXfolx9mhWqCeWHWHyflMldSwwnHuP6m/view)
 - **Issuing Organization:** AICTE
 - **Date of Certification:** April 2025
 
