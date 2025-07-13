@@ -56,8 +56,13 @@ It focuses on delivering a sleek, user-friendly design for an athletic or lifest
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
 1. **AICTE Virtual Internship**
-   - **Duration:** [Dec 2022] - [Feb 2023]
-   - **Description:** Gained insights about Juniper Networks Networking.
+   - **Duration:** [May 2023] - [Jul 2023]
+   - **Description:** fully online program designed to equip students with industry-relevant skills in AI - ML.
+
+2.**APSSDC Virtual Internship**
+  - **Duration:** [May 2024] - [Jun 2024]
+   - **Description:** Successfully completed 6 - Week Internship in Cyber Security With Kali Linux leveraging IBM SkillsBuild platform.
+  
 
 
 
