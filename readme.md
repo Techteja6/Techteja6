@@ -29,33 +29,29 @@
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
-1. **Online Prompt Selling Application**
-   - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
-   - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
+1. **ACTIVE LANDING HOMEPAGE**
+   - **Description:** Active Landing Homepage is a modern, responsive webpage built using React.js, styled with Tailwind CSS, and enhanced by JavaScript.
+It focuses on delivering a sleek, user-friendly design for an athletic or lifestyle brand, emphasizing both aesthetics and performance. 
+   - **Tech Stack:** REACT JS, TAILWIND CSS, JAVASCRIPT.
    - **Deployment:** Deployed on vercel platform.
-   - **Repository:** [Prompt Sellling Market Place (Saenius)Repository](https://github.com/saekumar/ai-prompt)
-   - **Deployed Link:** [Saenius Deployed Link](https://saenius.vercel.app)
+   - **Repository:** [ACTIVE LANDING HOMEPAGE (TejaNike)Repository](https://github.com/Techteja6/tejanike)
+   - **Deployed Link:** [Saenius Deployed Link](https://tejanike-omega.vercel.app/)
    
-2. **Online Live Streaming Platform**
-   - **Description:** This application facilitates live streaming where users can broadcast their content, and others can join as guests or viewers in real-time, akin to the functionality of the Twitch platform. It offers an interactive experience for creators and audiences alike, fostering community engagement through live interactions and shared content.
-   - **Tech Stack:** Next Js, Tailwind CSS, MongoDB, Clerk Authentication.
-   - **Deployment:** Deployed on Vercel platform.
-   - **Repository:** [Online Streaming Platform(StreamVista) Repository](https://github.com/saekumar/online-streaming-platform)
-   - **Deployed Link:** [StreamVista Deployed Link]()
+2. **AI - POWERED RESUME SCREENING AND RANKING SYSTEM**
+   - **Description:** Built a dynamic AI prompt marketplace using Streamlit and Python. Recruiters can upload multiple resumes in formats like PDF based on the relevance to the job description,the system ranks the resumes and provides match scores.
 
-3. **Online E-learning**
-   - **Description:** Discover an immersive e-learning platform designed to enrich your educational journey. Our frontend project offers a dynamic interface where you can seamlessly explore an extensive array of courses, delve into insightful blogs, and interact with a vibrant community of learners. Dive into a world of knowledge at your fingertips, where learning knows no bounds..
-   - **Tech Stack:** Next Js, Tailwind CSS, .
-   - **Deployment:** Deployed on Vercelplatform.
-   - **Repository:** [E-Learning Repository](https://github.com/saekumar/E-Learning-Next-Js)
-   - **Deployed Link:** [E-Learning  Deployed Link](https://e-learning-next-js.vercel.app/)
+   - **Tech Stack:** Python,Streamlit cloud,.
+   - **Deployment:** Deployed on Stramlit Platform.
+   - **Repository:** [Resume Ranking System Repository](https://github.com/Techteja6/Resume-Ranking-system)
+   - **Deployed Link:** [Streamlit Deployed Link](https://resume-ranking-system-uqsn3dvxmcbmqhupr3hgsr.streamlit.app/)
 
-4. **Personal Portfolio**
-   - **Description:** Personal Portfolio showcasing projects and skills.
-   - **Tech Stack:** React JS, Tailwind CSS, JavaScript.
-   - **Deployment:** Deployed on vercel .
-   - **Repository:** [Personal Portfolio Repository](https://github.com/saekumar/Portfolio)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saikumar-portfolio.vercel.app)
+3. **RESPONSIVE YOUTUBE HOMEPAGE CLONE**
+   - **Description:**Built a responsive and dynamic YouTube clone homepage using html and CSS. Focused on modular components, seamless user interface, and optimized performance with cross-browser compatibility.
+   - **Tech Stack:** JAVASCRIPT,HTML, Tailwind CSS, .
+   - **Deployment:** Deployed on Netlifiedplatform.
+   - **Repository:** [YouTube clone Repository](https://github.com/Techteja6/youtube-clone)
+   - **Deployed Link:** [E-Learning  Deployed Link](https://teja-youtube-clone-homepage.netlify.app/)
+
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
