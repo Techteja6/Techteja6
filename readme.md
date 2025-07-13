@@ -104,16 +104,6 @@ It focuses on delivering a sleek, user-friendly design for an athletic or lifest
    - **Duration:** [May 2024] - [Jun 2024]
    - **Description:** Successfully completed 6 - Week Internship in Cyber Security With Kali Linux leveraging IBM SkillsBuild platform.
  
-  
-
-
-
-
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saekumar&show_icons=true&theme=radical)
-
 <!-- Top Languages -->
 ## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saekumar&layout=compact&theme=radical)
