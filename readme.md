@@ -60,8 +60,9 @@ It focuses on delivering a sleek, user-friendly design for an athletic or lifest
    - **Description:** fully online program designed to equip students with industry-relevant skills in AI - ML.
 
 2.**APSSDC Virtual Internship**
-  - **Duration:** [May 2024] - [Jun 2024]
+ - **Duration:** [May 2024] - [Jun 2024]
    - **Description:** Successfully completed 6 - Week Internship in Cyber Security With Kali Linux leveraging IBM SkillsBuild platform.
+ 
   
 
 
