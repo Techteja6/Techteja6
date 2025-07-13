@@ -46,7 +46,7 @@ It focuses on delivering a sleek, user-friendly design for an athletic or lifest
    - **Deployed Link:** [Streamlit Deployed Link](https://resume-ranking-system-uqsn3dvxmcbmqhupr3hgsr.streamlit.app/)
 
 3. **RESPONSIVE YOUTUBE HOMEPAGE CLONE**
-   - **Description:**Built a responsive and dynamic YouTube clone homepage using html and CSS. Focused on modular components, seamless user interface, and optimized performance with cross-browser compatibility.
+   - **Description:** Built a responsive and dynamic YouTube clone homepage using html and CSS. Focused on modular components, seamless user interface, and optimized performance with cross-browser compatibility.
    - **Tech Stack:** JAVASCRIPT,HTML, Tailwind CSS, .
    - **Deployment:** Deployed on Netlifiedplatform.
    - **Repository:** [YouTube-Clone Repository](https://github.com/Techteja6/youtube-clone)
