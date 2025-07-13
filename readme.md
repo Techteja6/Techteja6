@@ -13,17 +13,17 @@
 
 ## 🏆 Certifications
 
-### Red Hat Certified Application Developer
-- **Issuing Organization:** Red Hat
-- **Date of Certification:** August 2023
-  
-### AWS Certified Cloud Practitioner
-- **Issuing Organization:** Amazon Web Services
+### [AI-ML Internship Certificate](https://drive.google.com/file/d/1ZyGsRprBQTRGTNW0SP_-UDw9AIF49EQ0/view)
+- **Issuing Organization:** AWS Academy
 - **Date of Certification:** July 2023
+  
+### [Data Analytics Job Simulation](https://drive.google.com/file/d/1KlmQk1J9lSO8w4d9R9jcXlnCW1JqEGJZ/view)
+- **Issuing Organization:** Deloitte
+- **Date of Certification:** July 2025
 
-### Programming in Java 
-- **Issuing Organization:** NPTEL
-- **Date of Certification:** October 2022
+### [Internship On VlSI](https://drive.google.com/file/d/1yXfolx9mhWqCeWHWHyflMldSwwnHuP6m/view)
+- **Issuing Organization:** AICTE
+- **Date of Certification:** April 2025
 
 
 
