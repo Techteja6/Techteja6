@@ -5,11 +5,52 @@
 
 <!-- Skills -->
 ## 🛠️ Skills
-| Frontend | Web Frameworks | Databases | Programming Languages | Familiar Tools | IDEs |
-|----------|----------------|-----------|-----------------------|----------------|------|
-| ![HTML](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b36aee95-b275-4238-8f97-1d5dc9942226) | ![Spring Boot](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7b886cc8-bcef-454c-ad0c-16412d8e191e) | ![MySQL](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/072f7e60-2ce2-43b1-a269-befc186ee5b6) | ![Java](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb0e319-9679-4462-8335-701874af7289) | ![GitHub](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg) | ![Eclipse]([https://img.icons8.com/?size=50&id=w1uD6vtDitjr&format=png](https://img.icons8.com/?size=50&id=64ZDmgB9Ew9X&format=png)) |
-| ![JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png) | ![React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png) | ![MongoDB](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/95920bed-892d-444f-b29b-3a858658e759) | ![Python](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b91224db-d3ab-4a27-8d86-1a1c247da83a) | ![Postman](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb81023-3c28-44b5-b9c0-5a5ad4e868d8) | ![VS Code](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/36cb29ea-dbad-4b76-8654-2bc7c63c9efc) |
-| ![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png) | ![Next JS](https://images.app.goo.gl/uAuWff2qU812gQDC7) | ![Oracle](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/def3e749-c5e5-4465-a1e0-8c085348dde7) | ![C](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/bb6edf12-d57c-4948-838c-11c98f8d4bb7) | ![Git](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/38e2b01b-a5bc-4704-9880-e20e78fa2b91) | ![PyCharm](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7dd63f9d-480d-4088-9295-f38d767995fc) |
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+</head>
+<body>
+  <h1>My Tech Stack</h1>
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Web Frameworks</th>
+      <th>Databases</th>
+      <th>Programming Languages</th>
+      <th>Familiar Tools</th>
+      <th>IDEs</th>
+    </tr>
+    <tr>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5"><span>HTML5</span></td>
+      <td><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" alt="React JS"><span>React JS</span></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"><span>MySQL</span></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><span>Java</span></td>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"><span>GitHub</span></td>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="PyCharm"><span>PyCharm</span></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"><span>JavaScript</span></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next JS"><span>Next JS</span></td>
+      <td><img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB"><span>MongoDB</span></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><span>Python</span></td>
+      <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"><span>Git</span></td>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Jupyter"><span>Jupyter</span></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"><span>Tailwind CSS</span></td>
+      <td></td>
+      <td></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"><span>C</span></td>
+      <td></td>
+      <td><img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code"><span>VS Code</span></td>
+    </tr>
+  </table>
+</body>
+</html>
 
 ## 🏆 Certifications
 
