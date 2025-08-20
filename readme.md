@@ -6,12 +6,11 @@
 <!-- Skills -->
 ## 🛠️ Skills
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  
+
 </head>
 <body>
   <h1>My Tech Stack</h1>
@@ -67,7 +66,6 @@
 - **Date of Certification:** April 2025
 
 
-
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
 1. **ACTIVE LANDING HOMEPAGE**
@@ -92,7 +90,6 @@ It focuses on delivering a sleek, user-friendly design for an athletic or lifest
    - **Deployment:** Deployed on Netlifiedplatform.
    - **Repository:** [YouTube-Clone Repository](https://github.com/Techteja6/youtube-clone)
    - **Deployed Link:** [YouTube-Clone  Deployed Link](https://teja-youtube-clone-homepage.netlify.app/)
-
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
